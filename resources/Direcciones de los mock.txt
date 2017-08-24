@@ -1,0 +1,7 @@
+Dirección de "design mock"
+
+https://s3.amazonaws.com/codecademy-content/programs/freelance-one/excursion/mocks/excursion.png
+
+Dirección de "redline mock"
+
+https://s3.amazonaws.com/codecademy-content/programs/freelance-one/excursion/mocks/excursion_redline.png
